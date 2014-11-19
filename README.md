@@ -1,4 +1,4 @@
-SASS demo
+Sass demo
 ============
 
 Exercise 12. This reference also serves as the exercise files for my course, so you can download the exercise files from this repo as well.
